@@ -1,0 +1,19 @@
+##############################
+## Eclipse
+##############################
+.configurações/
+bin /
+tmp /
+.metadata
+.classpath
+.projeto
+.settings/*
+* .tmp
+* .bak
+* .swp
+* ~ .nib
+local.properties
+.loadpath
+/target/
+desafio-yamam/
+debug.log
